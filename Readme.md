@@ -1,5 +1,7 @@
 Simple Budget App with html , css and javascript
 
-Demo Video
+# Demo
 
-Live Site
+![](simplebudget.gif)
+
+Live Site: https://simple-budget25.netlify.app/
